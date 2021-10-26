@@ -37,6 +37,15 @@
 
 # Требования
 
+## Стэк
+
+- Kotlin
+- Single Activity
+- Retrofit
+- Jetpack Compose / XML
+- Kotlinx Serialization / Gson
+- RxJava / Coroutines
+
 ## Дизайн
 
 Хороший дизайн для клиентского разработчика - отличный способ быстро понять, что предстоит сделать. Он у нас именно такой:
